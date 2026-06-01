@@ -1,5 +1,5 @@
 """
-steel_opt_aligned.py - EXACT implementation of authors' formulation
+EXACT implementation of authors' formulation
 from steelccGurobi.py
 
 This code uses IDENTICAL:

@@ -1,5 +1,5 @@
 """
-steel_opt_with_mps.py - A version of the original code that saves the model in MPS format
+A version of our code that saves the model in MPS format
 """
 
 import gurobipy as gp
